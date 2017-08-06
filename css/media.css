@@ -1,0 +1,38 @@
+@media (max-width: 768px) {
+    .banner-group h1 {
+    font-size: 75px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #fff;
+    margin: 0;
+    position: relative;
+    margin-bottom: 40px;
+    padding-bottom: 35px;
+    animation-duration: 1.5s;
+    animation-delay: .5s;
+}
+    .form-list span {
+    color: #fff;
+    font-size: 12px;
+    padding-left: 15px;
+}
+    .btn-form {
+    width: 100px;
+    height: 35px;
+    background: transparent;
+    border: 1px solid #15A4FA;
+    color: #fff;
+    font-size: 15px;
+    transition: .5s;
+}
+    .copyright p {
+    font-size: 14px;
+    color: #999;
+}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {}
+
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+@media (min-width: 1200px) {}
